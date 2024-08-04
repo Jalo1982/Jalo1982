@@ -8,6 +8,8 @@
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **ali.aljalo@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/ali-aljalo/**
+- 📫 How to reach me **https://www.codewars.com/users/Jalo1982**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
