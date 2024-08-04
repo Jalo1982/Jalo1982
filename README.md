@@ -10,7 +10,7 @@
 - 📫 How to reach me **ali.aljalo@gmail.com**
 - 📫 How to reach me **https://www.linkedin.com/in/ali-aljalo/**
 - 📫 How to reach me **https://www.codewars.com/users/Jalo1982**
-- <img src="URL_OF_THE_ICON" alt="LinkedIn Icon" width="50" height="50">
+
 
 
 <h3 align="left">Connect with me:</h3>
