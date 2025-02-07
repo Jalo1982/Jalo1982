@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ali.aljalo@gmail.com**
 - 📫 How to reach me **https://www.linkedin.com/in/ali-aljalo/**
-- 📫 How to reach me **https://www.codewars.com/users/Jalo1982**
+- 📫 How to reach me **https://leetcode.com/u/admirralty/**
 
 
 
